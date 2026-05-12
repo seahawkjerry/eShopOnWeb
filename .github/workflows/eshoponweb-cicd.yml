@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-devOps-eshopeonweb-2219780
   LOCATION: westus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 5004dfa0-2dcd-48eb-b820-d9fc48df570fc
+  SUBSCRIPTION-ID: 5004dfa0-2dcd-48eb-b820-d9fc48df570f
   WEBAPP-NAME: eshoponweb-webapp-2219780
 
 
